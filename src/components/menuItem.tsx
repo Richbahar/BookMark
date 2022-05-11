@@ -26,7 +26,7 @@ const MenuItem: React.FC<Props> = ({
     return (
         <HStack
             alignItems="center"
-            p="8px 20px"
+            p="12px 20px"
             columnGap="10px"
             onClick={clickHandle}
             bgColor={active ? "#f1eeff" : "white"}
