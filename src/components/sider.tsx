@@ -5,14 +5,7 @@ import {resource, Resource} from "src/server/";
 import MenuItem from "./menuItem";
 
 
-const siderResource: Resource[] = [
-    {
-        name: "我的",
-        site: [],
-        icon: "./images/menu/mine.svg"
-    },
-    ...resource
-];
+const siderResource: Resource[] = resource;
 
 const Sider = () => {
     const [activeResource, setActiveResource] = useState<Resource>(siderResource[0]);
