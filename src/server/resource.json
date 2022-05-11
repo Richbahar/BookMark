@@ -32,12 +32,6 @@
                 "description": "精美丰富，包含很多冷门类型",
                 "url": "https://iconscout.com",
                 "image": "./images/site/iconscout.jpg"
-            },
-            {
-                "name": "ICONS8",
-                "description": "多风格",
-                "url": "https://icons8.com",
-                "image": "./images/site/icons8.jpg"
             }
         ]
     },
