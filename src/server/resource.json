@@ -1,6 +1,6 @@
 [
     {
-        "name": "Icon",
+        "name": "图标插画",
         "icon": "./images/menu/icon.svg",
         "site": [
             {
@@ -38,12 +38,6 @@
                 "description": "多风格",
                 "url": "https://icons8.com",
                 "image": "./images/site/icons8.jpg"
-            },
-            {
-                "name": "ICONFINDER",
-                "description": "类型丰富的图标库",
-                "url": "https://www.iconfinder.com",
-                "image": "./images/site/iconfinder.jpg"
             }
         ]
     },
